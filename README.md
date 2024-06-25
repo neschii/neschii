@@ -18,7 +18,7 @@ Sou completamente apaixonada por desenvolvimento Front End e também muito inter
 
 
 
-🌱 	**Atualmente estou aprendendo e melhorando em**:<br>
+🌱 	**Atualmente estou estudando e melhorando em**:<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
