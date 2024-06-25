@@ -33,7 +33,9 @@ Sou completamente apaixonada por desenvolvimento Front End, gráficos e também 
       
 💪 **Estou me desafiando em**:<br>
  Estudar pelo menos 1 hora por dia<br>
+ Manter o GitHub ativo <br>
  Ter uma rotina saúdavel e alimentação boa<br>
+ 
 </div>
   
  
