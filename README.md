@@ -12,7 +12,7 @@
 
 
 **Sou a Manoella, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela UVA.** <br>
-Sou completamente apaixonada por desenvolvimento Front End, gráficos e também muito interessada em análise de dados.<br>
+Sou completamente apaixonada por desenvolvimento Front End, gráficos e também muito interessada em designer e jogos!<br>
 <a href="mailto:mannpisn@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=purple"/> 
 <a href="https://www.linkedin.com/in/manoellapisaneschi/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
