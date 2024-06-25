@@ -1,7 +1,7 @@
 ## Hi!
 
 
-![manoella](https://github.com/neschii/neschii/assets/107769757/fc2e109c-a6ca-4db7-b6ac-79f61fdd9da4 | width=100)
+![](https://github.com/neschii/neschii/assets/107769757/fc2e109c-a6ca-4db7-b6ac-79f61fdd9da4 =250x250)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=neschii&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 Sou a Manoella, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela UVA. 
